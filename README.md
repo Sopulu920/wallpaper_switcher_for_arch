@@ -1,5 +1,7 @@
 # wallpaper_switcher_for_arch
 
+Add wallpaper folder
+
 Add images to wallpaper folder
 
 main file is imageScript.ts
