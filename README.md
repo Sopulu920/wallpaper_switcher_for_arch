@@ -1,0 +1,1 @@
+# wallpaper_switcher_for_arch

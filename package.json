@@ -1,0 +1,14 @@
+{
+  "name": "picture_script",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node imageScript.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1"
+  }
+}
