@@ -23,7 +23,7 @@ function checkLinuxCharging(): boolean {
 const random = true;
 
 // get the path directory
-const wallpapers = path.resolve("./wallpaper"); // change wallpaper folder here
+const wallpapers = path.resolve("~/wallpaper"); // change wallpaper folder here
 
 // read directory
 const pictures = fs.readdirSync(wallpapers);
